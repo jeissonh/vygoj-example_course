@@ -1,0 +1,9 @@
+{
+  "example_course": {
+    "type": "course",
+    "name": "CS101",
+    "title": "Imperative programing",
+    "authors": [ "jeisson.hidalgo@ucr.ac.cr" ],
+    "description": "Learn to control a computer"
+  }
+}
